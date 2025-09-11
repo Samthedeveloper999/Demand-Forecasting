@@ -22,7 +22,6 @@ demand-forecasting/
 ├─ README.md
 ├─ LICENSE
 ├─ requirements.txt
-├─ .gitignore
 ├─ data/
 │  └─ generate_timeseries.py
 ├─ src/
